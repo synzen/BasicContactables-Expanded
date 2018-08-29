@@ -1,0 +1,1 @@
+An Android app that expands upon the sample app BasicContactables https://github.com/googlesamples/android-BasicContactables by adding instant search, call buttons, a cleaner display of search results and shows additional information other than the default name and phone number.

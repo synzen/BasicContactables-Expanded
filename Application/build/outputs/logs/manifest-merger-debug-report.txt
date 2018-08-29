@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:18:1-54:12
+INJECTED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:18:1-54:12
+INJECTED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:18:1-54:12
+MERGED from [com.android.support:support-v13:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/67a28330216e0ad35b53b54f7af4c7ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/9b8ad2fe5fa59f76fcd3b75805b30016/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/69f5d712c4ef7bb0e92ab34e85cd5ff1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/67331394f989a3b922e96a3f01c7a0d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/server/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/575aa8259e828cf0d37394dbf5eff2fd/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/b084400f64d92d1d7ea622600ef58636/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/a1a3ba286114b3bd466b61f79d6f53a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/436bd0b40ac5d41c8eaa3246b3153553/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/b14c25154cdd7793d942352e7f1d623b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/5215802606b50bb8a565dfbbeb66cfdc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/d9cbab26e29720804c0b0fab09dfa492/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/6bb64500a4435fed42c02d7ba8c4a8c5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/server/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/2891cc16fc645b621003f8e7367e8de5/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:18:1-54:12
+INJECTED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:18:1-54:12
+	package
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:19:5-52
+	android:versionName
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:21:5-30
+		INJECTED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:20:5-28
+		INJECTED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:24:5-71
+	android:name
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:24:22-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:25:22-66
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:26:5-71
+	android:name
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:26:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:27:5-72
+	android:name
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:27:22-70
+permission#android
+ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:30:5-53
+	android:name
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:30:17-39
+application
+ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:32:5-53:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/server/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/575aa8259e828cf0d37394dbf5eff2fd/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/server/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/575aa8259e828cf0d37394dbf5eff2fd/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:35:9-41
+	android:icon
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:34:9-45
+	android:allowBackup
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:33:9-35
+	android:theme
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:36:9-44
+activity#com.example.android.basiccontactables.MainActivity
+ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:37:9-52:20
+	android:label
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:39:13-45
+	android:launchMode
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:40:13-43
+	android:theme
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:41:13-48
+	android:name
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:38:13-78
+meta-data#android.app.searchable
+ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:42:13-44:54
+	android:resource
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:44:17-51
+	android:name
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:43:17-54
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:45:13-47:29
+action#android.intent.action.SEARCH
+ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:46:17-71
+	android:name
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:46:25-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:48:13-51:29
+action#android.intent.action.MAIN
+ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml:50:27-74
+uses-sdk
+INJECTED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml
+INJECTED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/67a28330216e0ad35b53b54f7af4c7ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/67a28330216e0ad35b53b54f7af4c7ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/9b8ad2fe5fa59f76fcd3b75805b30016/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/9b8ad2fe5fa59f76fcd3b75805b30016/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/69f5d712c4ef7bb0e92ab34e85cd5ff1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/69f5d712c4ef7bb0e92ab34e85cd5ff1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/67331394f989a3b922e96a3f01c7a0d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/67331394f989a3b922e96a3f01c7a0d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/server/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/575aa8259e828cf0d37394dbf5eff2fd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/server/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/575aa8259e828cf0d37394dbf5eff2fd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/b084400f64d92d1d7ea622600ef58636/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/b084400f64d92d1d7ea622600ef58636/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/a1a3ba286114b3bd466b61f79d6f53a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/a1a3ba286114b3bd466b61f79d6f53a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/436bd0b40ac5d41c8eaa3246b3153553/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/436bd0b40ac5d41c8eaa3246b3153553/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/b14c25154cdd7793d942352e7f1d623b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/b14c25154cdd7793d942352e7f1d623b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/5215802606b50bb8a565dfbbeb66cfdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/5215802606b50bb8a565dfbbeb66cfdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/d9cbab26e29720804c0b0fab09dfa492/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/d9cbab26e29720804c0b0fab09dfa492/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/6bb64500a4435fed42c02d7ba8c4a8c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/server/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/6bb64500a4435fed42c02d7ba8c4a8c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/server/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/2891cc16fc645b621003f8e7367e8de5/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/server/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/2891cc16fc645b621003f8e7367e8de5/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml
+INJECTED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml
+		ADDED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/server/Desktop/BasicContactables/Application/src/main/AndroidManifest.xml
